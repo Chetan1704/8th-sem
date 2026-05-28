@@ -1,0 +1,140 @@
+## Unique Questions – Wireless Communication (EC-802 B)
+
+1. Write an introductory note on wireless communication and its services.
+
+2. Elaborate different requirements for wireless services in economic and social aspects.
+
+3. Explain different technical challenges in wireless communication.
+
+4. What do you mean by reflection and transmission in wireless communication?
+
+5. Classify different causes of delay dispersion in directional channels. Write its remedial measures.
+
+6. Draw and explain the WSSUS model. Describe the condensed parameters.
+
+7. Explain narrowband, wideband, and directional channel models.
+
+8. Discuss deterministic channel modeling methods.
+
+9. Give a brief introduction to channel sounding.
+
+10. Discuss time-domain measurement methods in wireless communication.
+
+11. Sketch the structure of a wireless communication link and explain its characteristics.
+
+12. Discuss the AWGN model.
+
+13. Explain error probability in AWGN channels.
+
+14. Give a brief introduction to diversity in wireless communication.
+
+15. Differentiate between micro diversity and macro diversity.
+
+16. Why are equalizers important in wireless devices? Classify equalizers used in wireless communication systems.
+
+17. Compare different equalizer structures with suitable examples.
+
+18. Write short notes on:
+
+* Fading channels
+* Blind equalizers
+* Viterbi detector
+* Fractional spaced equalizer
+* Doppler spectra
+
+19. What is the history behind the evolution of wireless communication?
+
+20. Using Kirchhoff theory and perturbation theory, explain scattering of waves on rough surfaces.
+
+21. Derive the expression of Rayleigh distance in terms of antenna dimensions.
+
+22. Compute the Rayleigh distance of a square antenna with 20 dB gain.
+
+23. Explain the time-variant two-path model for wireless channels.
+
+24. Derive the amplitude and phase distribution for small-scale fading with a dominant component.
+
+25. Discuss Doppler spectra in wireless systems.
+
+26. Characterize a wireless channel as a deterministic linear time-variant system.
+
+27. Discuss wideband models.
+
+28. Discuss ray tracing and efficiency considerations for deterministic channel modeling methods.
+
+29. Compare the spectral efficiency of MSK and QPSK.
+
+30. Explain micro diversity in wireless systems.
+
+31. Explain the fractional spaced equalizer.
+
+32. Write short notes on:
+
+* Antennas for mobile stations
+* WSSUS model
+
+33. Explain the different types of wireless services and their requirements.
+
+34. Discuss the economic and social impact of wireless communication.
+
+35. How do multipath propagation and user mobility affect system performance?
+
+36. Explain the evolution of wireless communication from 1G to 5G.
+
+37. What are the major differences in services and requirements from 1G to 5G?
+
+38. What are the key spectrum limitations in wireless communication?
+
+39. How do spectrum limitations impact system design?
+
+40. Explain coherence bandwidth and its relation to delay spread in wireless channels.
+
+41. Derive the expression for Doppler shift in a mobile wireless channel.
+
+42. How does velocity impact Doppler shift?
+
+43. Describe small-scale fading and large-scale fading.
+
+44. How does Doppler shift impact wireless communication?
+
+45. Derive expressions for delay spread and coherence bandwidth in wireless channels.
+
+46. How does delay spread affect system performance?
+
+47. Compare narrowband, wideband, and directional channel models with applications.
+
+48. Explain the process of channel sounding and different measurement methods used for characterizing wireless channels.
+
+49. Describe the block diagram of a wireless transceiver.
+
+50. How do modulation and demodulation techniques impact system performance?
+
+51. Explain the impact of delay-dispersive and frequency-dispersive fading on signal reception.
+
+52. How do fading effects influence error probability?
+
+53. Compare blind equalization and decision-directed equalization.
+
+54. When is blind equalization preferred?
+
+55. What is diversity? Explain microdiversity and macrodiversity.
+
+56. How does diversity improve signal reception?
+
+57. Write short notes on:
+
+* Antennas for mobile stations
+* Data services in cellular communication
+* TDMA and CDMA systems
+
+58. Discuss error probability in delay-dispersive and frequency-dispersive fading channels.
+
+59. Write short notes on:
+
+* Inter Symbol Interference (ISI)
+* Doppler Spectra
+
+60. Write short notes on:
+
+* Snell’s Law
+* User Mobility
