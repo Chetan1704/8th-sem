@@ -1,0 +1,89 @@
+1. Draw the characteristic of optical fiber attenuation as a function of wavelength and explain the properties of different wavelength windows.
+
+2. Derive the expression of numerical aperture in terms of core and cladding refractive index.
+
+3. Calculate numerical aperture of the step index fiber having core refractive index (n_1 = 1.48) and cladding refractive index (n_2 = 1.46). What is the maximum entrance angle for the fiber if outer medium is air?
+
+4. What are the different mechanisms causing absorption in optical fiber? How can absorption be reduced?
+
+5. Explain VAD method of fiber fabrication.
+
+6. Explain about bending losses and core cladding losses. How can they be reduced?
+
+7. Explain the working of OTDR.
+
+8. What is quantum efficiency? Derive the expression of quantum efficiency in terms of recombination lifetime.
+
+9. With the help of suitable diagram explain the working of PIN diode.
+
+10. Explain in detail the link power budget design analysis for optical link establishment.
+
+11. Explain the architecture and working of SONET.
+
+12. Explain the working of EDFA.
+
+13. Write short notes on:
+
+* LED
+* Splicing
+* Passive Optical Networks (PON)
+
+1. Draw the characteristic of optical fiber attenuation as a function of wavelength and explain the properties of different wavelength windows.
+
+2. Derive the expression of numerical aperture in terms of core and cladding refractive index.
+
+3. Calculate numerical aperture of the step index fiber having core refractive index (n_1 = 1.48) and cladding refractive index (n_2 = 1.46). What is the maximum entrance angle for the fiber if outer medium is air?
+
+4. What are the different mechanisms causing absorption in optical fiber? How can absorption be reduced?
+
+5. Explain VAD method of fiber fabrication.
+
+6. Explain about bending losses and core cladding losses. How can they be reduced?
+
+7. Explain the working of OTDR.
+
+8. What is quantum efficiency? Derive the expression of quantum efficiency in terms of recombination lifetime.
+
+9. With the help of suitable diagram explain the working of PIN diode.
+
+10. Explain in detail the link power budget design analysis for optical link establishment.
+
+11. Explain the architecture and working of SONET.
+
+12. Explain the working of EDFA.
+
+13. Write short notes on:
+
+* LED
+* Splicing
+* Passive Optical Networks (PON)
+1. a) Derive the expression of Numerical Aperture in optical fiber.
+
+   b) A silica fiber having core refractive index 1.5 and cladding refractive index 1.47. Determine the critical angle of core cladding interface, numerical aperture and acceptance angle in air for the fiber.
+
+2. a) Explain about the modes in planar guide.
+
+   b) Explain about the ray transmission in step index fiber.
+
+3. a) Discuss absorption losses in optical fibers. Also compare intrinsic and extrinsic absorption mechanisms.
+
+   b) A multimode step index fiber with a core refractive index of 1.5, a relative index difference of 3% and a radius of wavelength 10.02 µm. Estimate the critical radius of curvature at which large bending losses occur in the fiber.
+4. a) Explain the working principle of LED used in optical communication.
+
+   b) Discuss the advantages and disadvantages of LED sources.
+
+5. a) Explain the construction and working of LASER diode.
+
+   b) Compare LED and LASER diode used in optical fiber communication.
+
+6. a) Explain PIN photodiode with neat diagram.
+
+   b) Discuss the working of Avalanche Photodiode (APD).
+7. a) Explain optical fiber communication system with block diagram.
+
+   b) Discuss the advantages of optical fiber communication system.
+
+8. a) Explain WDM (Wavelength Division Multiplexing) in optical fiber communication.
+
+   b) Compare TDM and WDM techniques used in optical communication systems.
+
