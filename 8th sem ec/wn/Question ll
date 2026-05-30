@@ -1,0 +1,77 @@
+
+Q1(a): How does IEEE 802.16 mobile differ from the fixed standard, and what are the key enhancements introduced to support mobility?   
+Q1(b): What are the key components of a UMTS network architecture, and how do they interact to provide mobile services?   
+Q2(a): What are the key functions performed by the Medium Access Control (MAC) Layer in IEEE 802.11 WLANs. Discuss   
+Q2(b): Describe the key components of E-UTRAN architecture and their roles in facilitating wireless communication.   
+Q3(a): What do you understand by SISO and MIMO systems? Discuss the advantages of MIMO systems over SISO systems   
+Q3(b): How does OFDM-MIMO address the challenges of channel variability and inter-symbol interference in wireless communication environments?  
+Q4(a): What is topology management in WSNs and why is it essential for ensuring network efficiency and robustness?   
+Q4(b): Describe the architecture of an Underwater Wireless Sensor Network. Give their main applications and use cases?   
+Q5(a): Explain the advantages and limitations of proactive (table-driven) and reactive (on-demand) routing protocols in WSNs.   
+Q5(b): How does the exposed terminal problem influence medium access in wireless networks, and what techniques are used to mitigate its effects?   
+Q6(a): Discuss the process of data forwarding when a mobile node is away from its home network and communicates with a correspondent node.   
+Q6(b): How does mobile TCP adapt to the challenges of wireless and mobile networks, including high packet loss, variable latency and frequent handovers?   
+Q7(a): Compare and contrast the characteristics of Bluetooth piconet and scatternet in terms of topology, scalability, coverage area, and device interaction.   
+Q7(b): What is GPS-Aided GEO Augmented Navigation (GAGAN), and what is its purpose in global navigation systems?   
+Q8: Write a short note on any two: Mobility Management, Security in WSN, 3GPP, Wireless ATM   
+
+2. Examination Paper – May 2024 (ec-803-a-wireless-networks-may-2024.pdf)
+
+Q1(a): Describe the evolution of mobile telecommunication systems from GSM to UMTS (Universal Mobile Telecommunication System) in terms of the advancements in data transmission rates, coverage, and service offered.   
+Q1(b): Explain the key features and advantages of HIPERLAN (High-Performance Radio Local Area Network) compare to IEEE 802.11 standards.   
+Q2(a): What is Wireless ATM (Asynchronous Transfer Mode)? How does it enable high-speed data transmission in wireless networks? Explain.  
+Q2(b): What is the role of 3GPP in setting standards for mobile communication technologies, specifically LTE and LTE-A? Discuss the key objectives and principles underlying the LTE and LTE-A.   
+Q3(a): Describe the E-UTRAN (Evolved Universal Terrestrial Radio Access Network) architecture and its components for mobility management and resource allocation in LTE networks.   
+Q3(b): Differentiate between SISO and MIMO systems in wireless communication. How does MIMO technology improve signal reliability, coverage, and data rates in LTE networks compared to traditional SISO systems?   
+Q4(a): What is a Wireless Sensor Network (WSN) and how does it differ from traditional wired networks? Explain the architecture of a WSN.   
+Q4(b): Discuss the challenges for Underwater Wireless Sensor Networks (UWSNs).   
+Q5(a): Discuss the security challenges in Wireless Sensor Networks (WSN) and the techniques used to ensure data confidentiality, integrity, and authenticity.   
+Q5(b): In wireless environments, how do routing algorithms ascertain the most efficient path for transmitting data? Also explain how they mitigate network congestion and guarantee the timely delivery of packets?   
+Q6(a): Compare the following: (i) IPv4 and IPv6 addressing, (ii) TCP and UDP.   
+Q6(b): Briefly explain the enhancements and modifications made in indirect TCP, Reno, New-Reno, Tahoe, and Vegas TCP variants to improve performance in mobile and wireless networks.  
+Q7(a): Describe the architecture of the Internet of Things (IoT) and its key components.   
+Q7(b): Write a case study on the implementation of a Sensor Body Area Network (BAN).   
+Q8: Write short notes on (any two): WiMAX, Zigbee, IEEE 802.15 WPAN, GAGAN   
+
+3. Examination Paper – May 2023 (ec-803-a-wireless-networks-may-2023.pdf)
+Q1(a): Draw the protocol Architecture of WLAN (802.11). Explain the Physical layer and MAC management layer of 802.11.   
+Q1(b): Describe in detail the Universal Mobile Telecommunication System (UMTS).   
+Q2(a): Give and explain the simple architecture for Wireless ATM network. What are the biggest research challenges in wireless ATM networks?   
+Q2(b): With neat block diagram explain the OFDM Transmitter and receiver.   
+Q3(a): Give the E-UTRAN architecture and explain in detail.   
+Q3(b): What is Multi-Input Multi-Output (MIMO) system? Explain with suitable diagram?   
+Q4(a): Draw and explain the WSN Architecture with suitable diagram.   
+Q4(b): Write a note on security issues in Wireless Sensor Network (WSN).   
+Q5(a): Write the different types of applications of Wireless sensor network.   
+Q5(b): Explain in detail about Traditional TCP and its significance.   
+Q6(a): Imagine the following scenario: Japanese and a German meet at a conference on Hawaii. Both want to use their Laptops for exchange data, both run mobile IP for mobility support. Explain the optimizations used in this mobile IP network.   
+Q6(b): Give the comparison between TCP Tahoe, Reno, New-Reno and Vegas.   
+Q7(a): Discuss in detail the architecture of IoT with a neat sketch.   
+Q7(b): Give and explain the interface between 802.11 and Bluetooth.   
+Q8: Write a short note on any two: CSMA/CD, OFDM-MIMO, Under water WSN, IEEE 802.15 WPAN   
+
+4. Examination Paper – May 2022 (ec-803-a-wireless-networks-may-2022.pdf)
+Q1(a): Give a brief introduction on Wireless networks. Discuss about the characteristics of Wireless medium.   
+Q1(b): Explain the effect of Multipath and Doppler in wireless network.   
+Q2(a): Draw and explain the basic block diagram of UMTS.   
+Q2(b): Explain the differences between WLAN and MAC layer with suitable examples.   
+Q3(a): Give a brief introduction on 3GPP. Explain its practical applications.   
+Q3(b): Draw and explain the architecture of mobility and resource management. Explain its different hierarchies.   
+Q4(a): Draw and explain the WSN architecture. Describe the practical needs for WSN coverage and its placement.   
+Q4(b): Classify and explain the different technologies used for sensor nodes and its network.   
+Q5(a): Explain the problems encountered by users while using medium access in wireless networks.   
+Q5(b): Briefly explain the security of WSN networks in recent technologies.   
+Q6(a): Compare and explain the architecture of IPv4 and IPv6.  
+Q6(b): What do you mean by congestion window management? Explain its practical consequences.   
+Q7(a): Draw and explain IoT architecture.   
+Q7(b): Elaborate the main design principles and needed capabilities of IoT structure.   
+Q8(a): Explain some of the emerging IoT standards helpful for networking engineer.   
+Q8(b): Discuss the comparison between the Interface of 802.11 and Bluetooth.   
+
+
+
+
+
+
+
+
