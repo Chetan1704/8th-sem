@@ -1,0 +1,222 @@
+# EC-801 Optical Fiber Communication – Unique Questions (Repeated Questions Removed)
+
+The following list contains only **unique questions** from the 2022, 2023, 2024, and 2025 papers. Questions that appeared in multiple years have been kept only once.
+
+---
+
+## Fiber Fundamentals
+
+### 1. Derive the expression of Numerical Aperture (NA) for a step index optical fiber.
+
+### 2. Calculate the Numerical Aperture and maximum acceptance angle for a step index fiber having:
+
+* Core refractive index (n_1 = 1.48)
+* Cladding refractive index (n_2 = 1.46)
+
+### 3. A silica fiber has:
+
+* Core refractive index = 1.5
+* Cladding refractive index = 1.47
+
+Determine:
+
+* Critical angle at the core-cladding interface
+* Numerical Aperture
+* Acceptance angle in air
+
+### 4. An optical fiber has:
+
+* NA = 0.2
+* Cladding refractive index = 1.59
+
+Determine the acceptance angle in water having refractive index 1.33.
+
+### 5. Elaborate any five differences between Step Index and Graded Index fibers.
+
+### 6. Explain the modes in a planar waveguide.
+
+### 7. Derive an expression to determine the modes propagating in a step index fiber.
+
+### 8. Write an introductory note on normalized frequency and derive its expression.
+
+### 9. A fiber has:
+
+* Core radius = 25 μm
+* Core refractive index = 1.48
+* Relative refractive index difference = 0.01
+* Operating wavelength = 0.84 μm
+
+Determine:
+
+* Normalized frequency
+* Number of guided modes
+
+Also determine the number of guided modes if Δ is reduced to 0.03.
+
+### 10. Explain ray theory (ray transmission) in a step index fiber.
+
+---
+
+## Fiber Losses and Dispersion
+
+### 11. Discuss absorption losses in optical fibers. Compare intrinsic and extrinsic absorption mechanisms.
+
+### 12. Discuss attenuation in optical fiber communication due to scattering and absorption.
+
+### 13. Explain scattering and bending losses in optical fiber with suitable diagrams.
+
+### 14. What are the different mechanisms causing absorption in optical fiber? How can absorption be reduced?
+
+### 15. Explain bending losses and core-cladding losses. How can they be reduced?
+
+### 16. Draw the attenuation versus wavelength characteristic of optical fiber and explain the different wavelength windows.
+
+### 17. Discuss intermodal dispersion with relevant expressions and diagrams.
+
+### 18. How is a signal degraded in optical fiber due to dispersion? Explain.
+
+### 19. A multimode step index fiber has:
+
+* Core refractive index = 1.5
+* Relative index difference = 3%
+* Operating wavelength = 0.82 μm
+
+Estimate the critical radius of curvature at which large bending losses occur.
+
+---
+
+## Fiber Fabrication, Splicing and Measurement
+
+### 20. Explain Modified Chemical Vapour Deposition (MCVD) technique of fiber fabrication.
+
+### 21. Explain the VAD (Vapour Axial Deposition) method of fiber fabrication.
+
+### 22. Classify and explain various splicing techniques in optical fiber.
+
+### 23. Explain the steps involved in fiber splicing and discuss the various splicing techniques employed between two fibers.
+
+### 24. Explain the measurements performed in optical fiber using OTDR.
+
+### 25. Explain the working of OTDR.
+
+### 26. Explain the different optical fiber connectors used.
+
+---
+
+## Optical Sources and Detectors
+
+### 27. Explain the basic principle and working of LASERs.
+
+### 28. What is the resonant frequency of a LASER? Derive the expression for wavelength spacing between two modes.
+
+### 29. How is modulation of a LASER diode carried out? Explain with a suitable diagram.
+
+### 30. A ruby LASER contains:
+
+* Crystal length = 4 cm
+* Refractive index = 1.78
+* Peak emission wavelength = 0.55 μm
+
+Determine:
+
+* Number of longitudinal modes
+* Frequency separation
+
+### 31. Derive an expression for the internal optical power generated in LEDs.
+
+### 32. What is quantum efficiency? Derive its expression in terms of recombination lifetime.
+
+### 33. Explain the principle and working of a PIN photodiode.
+
+### 34. Explain Avalanche Photodiode (APD).
+
+---
+
+## Optical Communication Systems
+
+### 35. Explain in detail the link power budget design analysis for optical link establishment.
+
+### 36. Explain how an eye pattern is useful in analyzing optical transmission performance.
+
+### 37. Derive a relation for digital receiver performance.
+
+### 38. Explain the following in digital links:
+
+* Point-to-point links
+* Power penalties
+
+### 39. Calculate the maximum bit rate achievable on a 50 km fiber link without repeaters using NRZ format, given:
+
+* Transmitter rise time = 4 ns
+* Intermodal rise time = 5 ns
+* Intramodal rise time = 1 ns
+* Receiver rise time = 2 ns
+
+---
+
+## Optical Amplifiers and WDM
+
+### 40. Explain the operating principle of WDM and its applications.
+
+### 41. Discuss the concept of WDM with a neat diagram.
+
+### 42. Discuss MEMS technology. How is it beneficial for WDM?
+
+### 43. Explain the principle and working of EDFA.
+
+### 44. Derive the expression for EDFA conversion efficiency and amplifier gain.
+
+### 45. Discuss the following optical coupler parameters:
+
+* Splitting Ratio
+* Excess Loss
+* Insertion Loss
+* Cross Talk
+
+### 46. Explain the principle and working of Raman Amplifier.
+
+---
+
+## SONET / SDH
+
+### 47. Explain the working of SONET and SDH.
+
+### 48. Explain the architecture and working of SONET.
+
+### 49. Explain the layers of SONET with neat sketches.
+
+---
+
+## Short Note Topics (Appeared Once)
+
+### 50. LED
+
+### 51. Optical Fiber Connector
+
+### 52. Single Mode Fibers
+
+### 53. Fiber Joints
+
+### 54. Splicing
+
+### 55. Passive Optical Networks (PON)
+
+---
+
+### Exam Preparation Tip
+
+The **most frequently repeated topics** across the papers are:
+
+1. Numerical Aperture (NA)
+2. OTDR
+3. EDFA
+4. SONET
+5. PIN Photodiode
+6. Splicing Techniques
+7. WDM
+8. Fiber Losses (Absorption, Scattering, Bending)
+9. Link Power Budget
+10. LASER Fundamentals
+
+These topics have the highest probability of appearing again and should be prioritized for 7-mark and 14-mark preparation.
+
