@@ -1,0 +1,371 @@
+Here are the compilation of questions extracted from each of the provided question papers for **EC-801 Optical Fiber Communication**:
+
+---
+
+## 1. Examination, June 2025 (EC-801)
+
+* **Question 1**
+* 
+**a)** Derive the expression of Numerical Aperture in optical fiber.
+
+
+* **b)** A silica fiber having core refractive index = 1.5 and cladding refractive index is 1.47. Determine the critical angle at core cladding interface, numerical aperture and acceptance angle in air for the fiber.
+
+
+
+
+* **Question 2**
+* 
+**a)** Explain about the modes in planar guide.
+
+
+* 
+**b)** Explain about the ray theory / ray transmission in step index fiber. *(Note: In the original text, part b contains the text corresponding to ray transmission).*
+
+
+
+
+* **Question 3**
+* **a)** Discuss absorption losses in optical fibers. Also compare intrinsic and extrinsic absorption mechanism.
+
+
+* **b)** A multimode step index fiber with a core refractive index of 1.5, a relative index difference of 3% and an operating wavelength of $0.82~\mu m$. Estimate the critical radius of curvature at which large bending losses occur in the fiber.
+
+
+
+
+* **Question 4**
+* 
+**a)** Explain modified chemical vapour deposition technique of fiber fabrication.
+
+
+* 
+**b)** Explain the measurement done in fiber using OTDR.
+
+
+
+
+* **Question 5**
+* 
+**a)** Explain the basic principle working of lasers.
+
+
+* 
+**b)** Explain the principle working of PIN diode.
+
+
+
+
+* 
+**Question 6** Design an optical link using link power budget.
+
+
+* **Question 7**
+* 
+**a)** Explain the working of SONET and SDH.
+
+
+* 
+**b)** Explain the principle working of EDFA.
+
+
+
+
+* **Question 8** Write short notes on any two of the following:
+* 
+**a)** LED 
+
+
+* 
+**b)** Raman Amplifier 
+
+
+* 
+**c)** Splicing techniques 
+
+
+
+
+
+---
+
+## 2. Examination, May 2022 (EC-801)
+
+* **Question 1**
+* 
+**a)** Elaborate any five differences between a step index and graded index fiber.
+
+
+* **b)** An optical fiber has a NA of 0.2 and a cladding refractive index of 1.59. Determine the acceptance angle for the fiber in water which has a refractive index of 1.33.
+
+
+
+
+* **Question 2**
+* **a)** Write an introductory note on normalized frequency. Derive its expression.
+
+
+* **b)** Calculate the numerical aperture of step index fiber having $n_{1}=1.48$ and $n_{2}=1.46$. What is the maximum entrance angle $Q_{0}\text{ (max)}$ for this fiber if the outer medium is air with $n=1$? Also derive the expression used.
+
+
+
+
+* **Question 3**
+* 
+**a)** Explain the scattering and bending losses that occur in optical fiber with suitable diagram.
+
+
+* 
+**b)** Classify and explain various splicing techniques in optical fiber.
+
+
+
+
+* **Question 4**
+* **a)** How signal degraded an optical fiber due to dispersion? Elaborate any case history.
+
+
+* **b)** What is the resonant frequency of LASER? Derive the expression of wavelength spacing between two modes.
+
+
+
+
+* **Question 5**
+* **a)** How is modulation of LASER diode done? Explain with a suitable diagram.
+
+
+* 
+**b)** Explain the different optical fiber connectors used.
+
+
+
+
+* **Question 6**
+* 
+**a)** How is eye pattern useful in analyzing the performance of optical transmission? 
+
+
+* 
+**b)** Derive a relation for digital receiver performance.
+
+
+
+
+* **Question 7**
+* **a)** Explain the operating principle of WDM. Write down some applications of WDM.
+
+
+* **b)** Discuss about the MEMS technology. How does it beneficial for WDM? Explain.
+
+
+
+
+* **Question 8** Write a short note (any four):
+* 
+**a)** EDFA 
+
+
+* 
+**b)** Optical Fiber Connector 
+
+
+* 
+**c)** Raman Amplifier 
+
+
+* 
+**d)** Single Mode Fibers 
+
+
+* 
+**e)** SONET 
+
+
+* 
+**f)** Fiber Joints 
+
+
+
+
+
+---
+
+## 3. Examination, May 2023 (EC-801)
+
+* **Question 1**
+* 
+**a)** Derive an expression for numerical aperture of a step index fiber.
+
+
+* **b)** A fiber has a core radius of 25 mm, core refractive index of 1.48 and relative refractive index difference is 0.01. If the operating wavelength is 0.84 mm, find the value of normalized frequency and the number of guided modes. Determine the number of guided modes if D is reduced to 0.03.
+
+
+
+
+* **Question 2**
+* 
+**a)** Derive an expression to determine the modes propagating in step index fiber.
+
+
+* 
+**b)** Draw and explain ray theory, transmission in an optical communication.
+
+
+
+
+* **Question 3**
+* 
+**a)** Discuss in detail the intermodal dispersion with relevant expressions and diagrams.
+
+
+* 
+**b)** Discuss the attenuation encountered in optical fiber communication due to Scattering and Absorption.
+
+
+
+
+* **Question 4**
+* 
+**a)** Derive an expression for the internal optical power level generated in LEDs.
+
+
+* 
+**b)** Explain about Avalanche photo diode.
+
+
+
+
+* **Question 5**
+* **a)** A ruby LASER containing a crystal length 4 cm with a refractive index of 1.78. The peak emission wavelength from the device is 0.55. Determine the number of longitudinal modes and their frequency separation.
+
+
+* **b)** Explain the step involved in splicing the fiber. Discuss the various splicing techniques employed between two fibers.
+
+
+
+
+* **Question 6**
+* **a)** Explain the following in respect of digital link:
+* i) Point to point links 
+
+
+* ii) Power penalties 
+
+
+
+
+* **b)** Calculate the maximum bit rate that may be achieved on the fiber link length of 50 km without repeaters and using NRZ format. Transmitter rise time is 4 ns. Intermodal rise time is 5 ns. Intramodal rise time 1 ns. Receiver rise time is 2 ns. *(Note: "NR2" in transcript corrected contextually to NRZ).*
+
+
+
+
+* **Question 7**
+* 
+**a)** Discuss the concept of WDM with neat diagram.
+
+
+* 
+**b)** Derive the expression for EDFA conversion efficiency and amplifier gain.
+
+
+* **c)** Discuss the following optical coupler parameters:
+* i) Splitting ratio 
+
+
+* ii) Excess loss 
+
+
+* iii) Insertion loss 
+
+
+* iv) Cross talk 
+
+
+
+
+
+
+* **Question 8**
+* 
+**a)** Explain the layers of SONET with neat sketches.
+
+
+
+
+
+---
+
+## 4. Examination, May 2024 (EC-801)
+
+*(Note: The page fragments for 2024 contain overlapping/repeated prints of the questions in the transcript. The unique set of listed items is finalized below).*
+
+* **Question 1**
+* 
+**a)** Draw the characteristic of optical fiber attenuation as a function of wavelength and explain the properties of the different wavelength windows.
+
+
+* 
+**b)** Derive the expression of numerical aperture in terms of core and cladding refractive index.
+
+
+
+
+* **Question 2** Calculate numerical aperture of the step index fiber having core refractive index $n_{1}=1.48$ and cladding refractive index $n_{2}=1.46$. What is the maximum entrance angle for the fiber if outer medium is air ($n=1$)?  *(Note: Corrected "outer medium is fiber" variant using the accompanying Hindi translation and 2022 parallel query context).*
+
+
+* **Question 3**
+* **a)** What are the different mechanism causing absorption in optical fiber? How can absorption be reduced.
+
+
+* 
+**b)** Explain VAD method of fiber fabrication.
+
+
+
+
+* **Question 4**
+* **a)** Explain about bending losses and core cladding losses. How can they be reduced.
+
+
+* 
+**b)** Explain the working of OTDR.
+
+
+
+
+* **Question 5**
+* **a)** What is quantum efficiency? Derive the expression of quantum efficiency in terms of recombination life time.
+
+
+* 
+**b)** With the help of suitable diagram explain the working of PIN diode.
+
+
+
+
+* 
+**Question 6** Explain in detail the link power budget design analysis for optical link establishment.
+
+
+* **Question 7**
+* 
+**a)** Explain the architecture and working of SONET.
+
+
+* 
+**b)** Explain the working of EDFA.
+
+
+
+
+* **Question 8** Write short notes on any two of the following:
+* 
+**a)** LED 
+
+
+* 
+**b)** Splicing 
+
+
+* 
+**c)** Passive optical networks
